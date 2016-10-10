@@ -1,0 +1,7 @@
+C:\Users\Filip\Documents\Visual Studio 2015\Projects\KDTree\Algorithms 2\Week 1\WordNet\WordNet\bin\Debug\WordNet.exe.config
+C:\Users\Filip\Documents\Visual Studio 2015\Projects\Algorithms 2\Week 1\WordNet\WordNet\bin\Debug\WordNet.exe.config
+C:\Users\Filip\Documents\Visual Studio 2015\Projects\Algorithms 2\Week 1\WordNet\WordNet\bin\Debug\WordNet.exe
+C:\Users\Filip\Documents\Visual Studio 2015\Projects\Algorithms 2\Week 1\WordNet\WordNet\bin\Debug\WordNet.pdb
+C:\Users\Filip\Documents\Visual Studio 2015\Projects\Algorithms 2\Week 1\WordNet\WordNet\obj\Debug\WordNet.csprojResolveAssemblyReference.cache
+C:\Users\Filip\Documents\Visual Studio 2015\Projects\Algorithms 2\Week 1\WordNet\WordNet\obj\Debug\WordNet.exe
+C:\Users\Filip\Documents\Visual Studio 2015\Projects\Algorithms 2\Week 1\WordNet\WordNet\obj\Debug\WordNet.pdb
